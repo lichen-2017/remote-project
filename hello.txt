@@ -11,3 +11,4 @@ hello git!
 hello git! master test master test2
 hello git! hot test2
 hello git! remote_add
+hello git! myedit
